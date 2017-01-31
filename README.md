@@ -1,3 +1,5 @@
 # Curso-C
 
-1. Crear una cuenta de  [Unreal](https://accounts.unrealengine.com/login?lang=en_US)
+##TEMARIO
+
+1. [Introduccion a Linux](http://nbviewer.jupyter.org/github/Rogger794/Curso-C/blob/master/Clase1.ipynb)
